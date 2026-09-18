@@ -148,7 +148,6 @@ The project uses Google's Gemini REST `generateContent` endpoint with the `x-goo
 
 ## Project Author
 
-**Created by:** Kushagra Ojha  
-**GitHub:** https://github.com/kushagraacodes
+**Created by:** Nikunj Barnwal
 
 Nexus AI was developed as a Java-based AI conversational assistant project for the VITyarthi Build Your Own Project assignment.
