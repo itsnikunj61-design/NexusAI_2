@@ -1,0 +1,12 @@
+target/
+.idea/
+.vscode/
+*.iml
+.env
+.DS_Store
+javagpt.db
+*.log
+
+nexus-ai.db
+*.key
+*.secret
